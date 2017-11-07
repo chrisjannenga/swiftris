@@ -238,6 +238,7 @@
 				TargetAttributes = {
 					A045D7A51F01903600C829DD = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = L53BQ84VUT;
 						ProvisioningStyle = Automatic;
 					};
 					A045D7BF1F01903600C829DD = {
@@ -472,6 +473,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L53BQ84VUT;
 				INFOPLIST_FILE = Swiftris/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Bloc.io.Swiftris;
@@ -484,6 +486,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L53BQ84VUT;
 				INFOPLIST_FILE = Swiftris/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Bloc.io.Swiftris;
@@ -565,6 +568,7 @@
 				A045D7D61F01903600C829DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A045D7D71F01903600C829DD /* Build configuration list for PBXNativeTarget "SwiftrisTests" */ = {
 			isa = XCConfigurationList;
@@ -573,6 +577,7 @@
 				A045D7D91F01903600C829DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A045D7DA1F01903600C829DD /* Build configuration list for PBXNativeTarget "SwiftrisUITests" */ = {
 			isa = XCConfigurationList;
@@ -581,6 +586,7 @@
 				A045D7DC1F01903600C829DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
